@@ -97,4 +97,4 @@ Execute the script, and a Gradio UI will launch in your browser.
 This project is licensed under the MIT License.
 
 ---
-```
+
